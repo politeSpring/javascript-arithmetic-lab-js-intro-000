@@ -30,6 +30,6 @@ function makeInt(a){
   return number;
 }
 function preserveDecimal(a){
-  number=preserveDecimal(a,10);
+  number=preseFloat(a,10);
   return number;
 }
